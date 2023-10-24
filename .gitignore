@@ -1,0 +1,10 @@
+
+# Personal Data
+0-RawData/2-BookQuotes/*
+0-RawData/1-KeepNotes/*
+
+0-RawData/Goodreads.zip
+goodreads_library_export.csv
+
+# Notebook files
+/utils/__pycache__/*
